@@ -8,6 +8,11 @@
 <h3 align="left">OCR for Food Facts Table</h2>
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Optical Character Recognition (OCR) for Food Facts Table is a web app that will allow the user to upload an image of a product that contains a food facts table and extracts the nutrition information as a CSV file. First, the app will take the uploaded image and run the detection table code to detect the table. Afterward, The text extraction code will run and extract the nutrition information and displayed it to the user as a table. Finally, the user can download the extracted nutrition information as a CSV file.
+
+
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/Kaalotaibi37/ocr-for-food-facts-table.svg?style=flat-square
 [contributors-url]: https://github.com/Kaalotaibi37/ocr-for-food-facts-table/graphs/contributors
