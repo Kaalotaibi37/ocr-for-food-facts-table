@@ -4,6 +4,9 @@
 [![Issues][issues-shield]][issues-url]
 
 
+<!-- PROJECT TITLE  -->
+<h3 align="left">OCR for Food Facts Table</h2>
+
 
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/Kaalotaibi37/ocr-for-food-facts-table.svg?style=flat-square
