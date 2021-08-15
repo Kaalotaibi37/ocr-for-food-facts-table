@@ -17,6 +17,13 @@ Optical Character Recognition (OCR) for Food Facts Table is a web app that will 
 ### Built With
 [Visual Studio Code](https://code.visualstudio.com/)
 
+
+## Contact 
+|          Name         |           Email                 |                        Linkedin                              |
+|:---------------------:|:-------------------------------:|:------------------------------------------------------------:|
+|    Khalid Alotaibi    | <kaalotaibi37@gmail.com>        | [KhalidAlotaibi37](https://linkedin.com/in/khalidalotaibi37) |
+
+
 <!-- MARKDOWN LINKS -->
 [contributors-shield]: https://img.shields.io/github/contributors/Kaalotaibi37/ocr-for-food-facts-table.svg?style=flat-square
 [contributors-url]: https://github.com/Kaalotaibi37/ocr-for-food-facts-table/graphs/contributors
