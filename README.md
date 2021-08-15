@@ -5,7 +5,7 @@
 
 
 <!-- PROJECT TITLE  -->
-<h3 align="left">OCR for Food Facts Table</h2>
+<h1 align="left">OCR for Food Facts Table</h1>
 
 
 <!-- ABOUT THE PROJECT -->
